@@ -1,0 +1,95 @@
+---
+layout: default
+title: ""
+---
+
+<!--<div>
+<p>Here's a gallery of <strong><span>
+
+
+            {% assign counter = 0 %}
+            {% for post in site.posts %}      
+
+            {% if post.relevant != "no" %}
+            {% assign counter = counter | plus: 1 %}
+            {% endif %}
+            
+            {% endfor %}
+            {{ counter }}
+
+
+        </span> things</strong> that I've made or am making:</p>
+</div>-->
+
+<div id="posts">
+
+    {% for post in site.posts %}
+    
+    <div class="post">
+            
+
+            <a href="/{{ post.category }}" title="{{ post.category }}">
+            {% case post.category %}
+              {% when 'Movies' %}
+              <div class="category"><p>🎬</p></div>
+              {% when 'Books' %}
+              <div class="category"><p>📚</p></div>
+              {% when 'Games' %}
+              <div class="category"><p>🎮</p></div>
+              {% when 'Anime' %}
+              <div class="category"><p>🌸</p></div>
+              {% when 'Music' %}
+              <div class="category"><p>🎶</p></div>
+              {% when 'IRL' %}
+              <div class="category"><p>🌐</p></div>
+              {% else %}
+              <div></div>
+            {% endcase %}
+            </a>
+
+            <a href="#" class="calendar">
+<div class="date">📅 {{ post.date | date: '%B %d, %Y' }}</div></a>
+
+<a href="{{ post.url }}" class="link">
+                {{ post.title }}
+            </a>
+
+              <!--<div class="excerpt"><p>{{ post.excerpt }}</p></div>-->
+    </div>
+
+    {% endfor %}
+
+</div>
+
+<!-- Pagination links 
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="next">
+      <span>&laquo; Previous Posts</span> 
+    </a>
+  
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="prev">
+      <span style="float:right">Later Posts &raquo;</span>
+    </a>
+  
+  {% endif %}
+</div>
+{% endif %}-->
+
+
+<!--For testing purposes
+<div class="pagination">
+    <a href="{{ paginator.next_page_path | relative_url }}" class="next">
+      <span>&laquo; Previous Posts</span> 
+    </a>
+  
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="prev">
+      <span style="float:right">Later Posts &raquo;</span>
+    </a>
+  
+</div>-->
