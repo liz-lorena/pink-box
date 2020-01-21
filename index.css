@@ -84,7 +84,7 @@ div#mainarea {
 	margin: 0 auto;
 	float: left;
 	border: 5px solid black;
-	/*border-left:10px solid black;*/
+	border-right: none;
 }
 
 div#content {
@@ -98,6 +98,7 @@ div#sidebar {
 	margin: 0 auto;
 	float: left;
 	border: 5px solid black;
+	/*border-left: none;*/
 	height: 100%;
 	padding: 20px;
 }
@@ -170,7 +171,7 @@ div#posts {
 div.post {
 	margin: 0 auto;
 	width: 100%;
-	float:right;
+	float: left;
 }
 
 div.post a {
@@ -181,7 +182,9 @@ div.post a {
 	display: inline-block;
 	transition: all 0.1s;
 	text-decoration: none !important;
-	float:right;
+	float: left;
+	font-size: 13pt;
+	line-height: 135%;
 	background-color: #f0f0ff;
 }
 
@@ -197,7 +200,11 @@ div.post div.category {
 
 div.post a.link, div.post a.calendar {
 	/*width: 70%;*/
-	margin-right:20px;
+}
+
+div.post a.category {
+	border-radius: 100%;
+	margin-right: 20px;
 }
 
 div.post a.calendar::before {
@@ -336,6 +343,10 @@ ul li {
 
 @media (max-width: 800px) {	
 
+div#mainarea {
+	border-right: 5px solid black;
+}
+
 date {
 	display: block;
 }
@@ -349,7 +360,7 @@ div.container-fluid {
 }
 
 div#content a.link {
-	margin: 0 auto;
+	/*margin: 0 auto;*/
 	margin-bottom: 20px;
 }
 
@@ -370,7 +381,7 @@ div#title h2 {
 }
 
 div.post a.link {
-	width: 100%;
+	width: 65%;
 }
 
 div#mainarea {

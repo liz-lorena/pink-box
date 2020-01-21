@@ -28,7 +28,7 @@ title: ""
     <div class="post">
             
 
-            <a href="/{{ post.category }}" title="{{ post.category }}">
+            <a href="/{{ post.category }}" class="category" title="{{ post.category }}">
             {% case post.category %}
               {% when 'Movies' %}
               <div class="category"><p>🎬</p></div>
@@ -47,8 +47,8 @@ title: ""
             {% endcase %}
             </a>
 
-            <a href="#" class="calendar">
-<div class="date">📅 {{ post.date | date: '%B %d, %Y' }}</div></a>
+            <!--<a href="#" class="calendar">
+<div class="date">📅 {{ post.date | date: '%B %d, %Y' }}</div></a>-->
 
 <a href="{{ post.url }}" class="link">
                 {{ post.title }}
