@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ""
+title: "| Anime Posts"
 ---
 
 <div>
-<p style="font-size:13pt;">📬 Total Posts: <strong><span>
+<p>🌸 Anime Posts: <strong><span>
 
 
             {% assign counter = 0 %}
             {% for post in site.posts %}      
 
-            {% if post.relevant != "no" %}
+            {% if post.category == "Anime" %}
             {% assign counter = counter | plus: 1 %}
             {% endif %}
             
@@ -26,6 +26,8 @@ title: ""
 
     {% for post in site.posts %}
     
+                {% if post.category == "Anime" %}
+
     <div class="post">
             
 
@@ -57,7 +59,7 @@ title: ""
 
               <!--<div class="excerpt"><p>{{ post.excerpt }}</p></div>-->
     </div>
-
+{% endif %}
     {% endfor %}
 
 </div>

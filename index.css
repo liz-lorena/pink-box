@@ -97,7 +97,7 @@ div#sidebar {
 	margin: 0 auto;
 	float: left;
 	border: 5px solid black;
-	border-left: none;
+	/*border-left: none;*/
 	height: 100%;
 	padding: 20px;
 }
@@ -142,11 +142,11 @@ img.home-img.larger {
 }
 
 p a, a h1, td a, li a, h2 a, h3 a, h4 a {
-	color: #4639a5;
+	color: #F58EA8;
 }
 
 p a:hover, a h1:hover, td a:hover, li a:hover, h2 a:hover, h3 a:hover, h4 a:hover {
-	color: #4639a5;
+	color: #F58EA8;
 	text-decoration: underline;
 }
 
@@ -164,7 +164,7 @@ h3 {
 }
 
 div#posts {
-	float: right;
+	float: left;
 }
 
 div.post {
@@ -176,7 +176,7 @@ div.post {
 div.post a {
 	padding: 20px;
 	border-radius: 30px;
-	color: #4639a5;
+	color: #F58EA8;
 	margin: 0 0 20px 0;
 	display: inline-block;
 	transition: all 0.1s;
@@ -184,11 +184,12 @@ div.post a {
 	float: left;
 	font-size: 13pt;
 	line-height: 135%;
-	background-color: #f0f0ff;
+	background-color: #fff5f7;/*#ffe8ed*/
+	border: 2px solid #F58EA8;
 }
 
 div.post a:hover {
-	background-color: #4639a5;
+	background-color: #F58EA8;
 	color: white;
 	text-decoration: none !important;
 }
@@ -204,13 +205,6 @@ div.post a.link, div.post a.calendar {
 div.post a.category {
 	border-radius: 100%;
 	margin-right: 20px;
-}
-
-div.post a.calendar::before {
-	Content:" ";
-	border-left: 5px solid blue;
-	margin-left: -40px;
-	position: absolute;
 }
 
 /**p a:hover, p a:active, p a:focus, a h1:hover, a h1:active, a h1:focus {
@@ -270,8 +264,8 @@ div#content h2 {
 /*Tooltips*/
 	#s-m-t-tooltip {
 		background-color: white;
-		border: 5px solid black;
-		color: black;
+		border: 2px solid #F58EA8;
+		color: #F58EA8;
 		padding: 10px;
 		font-family: Arial, sans-serif;
 		letter-spacing: 1px;
@@ -322,7 +316,7 @@ p strong, li strong {
 ul li::before {
 	Content: " ";
 	border-radius: 100%;
-	background-color: #4639a5;
+	background-color: #F58EA8;
 	width: 10px;
 	height: 10px;
 	display: block;
@@ -341,10 +335,6 @@ ul li {
 }
 
 @media (max-width: 800px) {	
-
-div#sidebar {
-	border-left: 5px solid black;
-}
 
 date {
 	display: block;
