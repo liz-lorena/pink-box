@@ -8,6 +8,8 @@ comments: true
 excerpt: This was my final report for my DCIM minor capstone project <em><a href="http://logout.lizlorena.com" target="_blank">LOG OUT</a></em>.
 ---
 
+<img src="https://lizlorena.com/img/logout.png" alt="" class="img-fluid"/>
+
 <h3>Introduction</h3>
 <h4>Goals</h4>
 
