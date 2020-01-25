@@ -406,4 +406,10 @@ div#sidebar {
 	width:100%;
 }
 
+div#sidebar div.widget {
+	margin-top: 20px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
 }
