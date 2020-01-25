@@ -4,10 +4,8 @@ title: "Logout: A Guide to Surviving Cyberharassment"
 date: 2019-05-01
 category: IRL
 comments: true
-excerpt: "This was my final report for my capstone project in my DCIM minor."
+excerpt: "This was my final report for my DCIM minor capstone project <em><a href="http://logout.lizlorena.com" target="_blank">LOG OUT</a></em>."
 ---
-
-
 
 <h3>Introduction</h3>
 <h4>Goals</h4>
