@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video Games Where Players Kill Innocents - A Timeline Analysis
+title: "Video Games Where Players Kill Innocents: A Timeline Analysis"
 date: 2019-03-04
 category: Games
 comments: true
