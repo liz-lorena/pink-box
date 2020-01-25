@@ -85,6 +85,7 @@ div#mainarea {
 	float: left;
 	border: 5px solid black;
 	border-top: 10px solid black;
+	border-left: 10px solid #F58EA8;
 	background-color: white;
 }
 
@@ -113,6 +114,7 @@ div#sidebar div.widget {
 	padding: 20px;
 	border: 5px solid black;
 	border-top: 10px solid black;
+	border-left: 10px solid #F58EA8;
 	margin-bottom: 20px;
 	margin-left: 20px;
 	background-color: white;
