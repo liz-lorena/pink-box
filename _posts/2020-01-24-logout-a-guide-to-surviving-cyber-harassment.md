@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LOG OUT: A Guide to Surviving Cyberharassment"
+title: "LOG OUT: A Guide to Surviving Cyber Harassment"
 date: 2020-01-24
 written: 2019-05-01
 category: IRL
