@@ -31,7 +31,7 @@ title: "| IRL Posts"
     <div class="post">
             
 
-            <a href="/{{ post.category }}" class="category" title="{{ post.category }}">
+            <a href="/{{ post.category | downcase }}" class="category" title="{{ post.category }}">
             {% case post.category %}
               {% when 'Movies' %}
               <div class="category"><p>🎬</p></div>
