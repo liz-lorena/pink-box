@@ -1,11 +1,11 @@
 /*Fonts*/
 ::-moz-selection { /* Code for Firefox */
 	color: white;
-	background: #4639a5;
+	background: #F58EA8;
 }
 ::selection {
 	color: white;
-	background: #4639a5;
+	background: #F58EA8;
 }
 
 div.container-fluid {
@@ -226,8 +226,18 @@ div.post div.category {
 }
 
 div.post a.link, div.post a.calendar {
-	/*width: 70%;*/
+	width: 90%;
 }
+
+div.post a.link span.excerpt {
+	color: black;
+	font-size: 13pt;
+	transition: .1s all;
+}
+
+div.post a.link:hover span.excerpt {
+	color: white;
+} 
 
 div.post a.category {
 	border-radius: 100%;

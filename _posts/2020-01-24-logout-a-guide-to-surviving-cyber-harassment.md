@@ -5,7 +5,7 @@ date: 2020-01-24
 written: 2019-05-01
 category: IRL
 comments: true
-excerpt: This was my final report for my DCIM minor capstone project <em><a href="http://logout.lizlorena.com" target="_blank">LOG OUT</a></em>.
+excerpt: This was my final report for my DCIM minor capstone project <em>LOG OUT</em>.
 ---
 
 <img src="https://lizlorena.com/img/logout.png" alt="" class="img-fluid"/>

@@ -24,7 +24,7 @@ title: ""
 
 <div id="posts">
 
-    {% for post in site.posts %}
+  {% for post in site.posts %}
     
     <div class="post">
             
@@ -52,7 +52,7 @@ title: ""
 <div class="date">📅 {{ post.date | date: '%B %d, %Y' }}</div></a>-->
 
 <a href="{{ post.url }}" class="link">
-                {{ post.title }}
+                <span class="title">{{ post.title }}</span> <br> <span class="excerpt">{{ post.excerpt }}</span>
             </a>
 
               <!--<div class="excerpt"><p>{{ post.excerpt }}</p></div>-->
