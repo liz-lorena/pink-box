@@ -8,7 +8,7 @@ comments: true
 excerpt: This was my final report for my DCIM minor capstone project <em>LOG OUT</em>.
 ---
 
-<img src="https://lizlorena.com/img/logout.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/logout.png" alt="" class="img-fluid"/>
 
 <h3>Introduction</h3>
 <h4>Goals</h4>
@@ -19,7 +19,7 @@ excerpt: This was my final report for my DCIM minor capstone project <em>LOG OUT
 <p>The purpose of the website is to serve as a guide for people to learn more about cyber harassment and its victims and perpetrators. Its purpose is also to teach people how to avoid becoming a victim of cyber harassment and how to fight cyber harassment if they have already been targeted. The website also contains references to all the sources found through research, information on immediate help, links to helpful digital tools, and other useful resources.</p>
 
 <h3>Deliverables</h3>
-<p>The deliverable of the project is a link to a website. This website is a bundle of files and folders that is stored and hosted as a static website on the <em>Github Pages</em> service for free. The name of the repository is “logout” because the name of my project is <em>LOG OUT</em>. The link to it is <a href="https://logout.lizlorena.com" target="_blank">https://logout.lizlorena.com</a>.</p>
+<p>The deliverable of the project is a link to a website. This website is a bundle of files and folders that is stored and hosted as a static website on the <em>Github Pages</em> service for free. The name of the repository is “logout” because the name of my project is <em>LOG OUT</em>. The link to it is <a href="https://logout.cozymaus.com" target="_blank">https://logout.cozymaus.com</a>.</p>
 <h3>Design</h3>
 <p>The design of the website is meant to mirror the design of the forum website Kiwi Farms, which is known in mainstream media as “the web’s biggest community of stalkers” (Pless, 2016). The point of this was to playfully mock that website as like a parody. Using their design but being an anti-cyberstalking resource gives the content some artistic merit. The name of my project is also a callout to <em>Kiwi Farms</em>. The name of my project is <em>LOG OUT</em>, which simultaneously tells victims to log out to get away from toxic people and also tells harassers to log out and quit harassing others.</p> 
 
