@@ -8,6 +8,6 @@ comments: true
 excerpt: "This was a multi-media blog project for my Self and Society course in which I had to research an internet culture and its specific hashtag. For this project, I chose the infamous True Crime Community on the Tumblr micro-blogging platform."
 ---
 
-<img src="https://cozymaus.com/img/tcc.png" class="img-fluid">
+<img src="https://lizlorena.com/img/tcc.png" class="img-fluid">
 
 <p><a href="http://lor-dcim.tumblr.com" target="_blank">Read the Tumblr blog</a>.</p>
