@@ -71,21 +71,21 @@ One sentence that I would change is in the summary section of the article and go
 
 <ul>
 	<li>
-		Murphy, T. (2012). Waco siege. In W. R. Miller (Ed.), The social history of crime and punishment in America: An encyclopedia (Vol. 1, pp. 1979-1900). Thousand Oaks, CA: SAGE Publications Ltd. Retrieved from <a href="http://dx.doi.org.proxy.libraries.rutgers.edu/10.4135/9781452218427.n715" target="_blank">http://dx.doi.org.proxy.libraries.rutgers.edu/10.4135/9781452218427.n715</a>
+		Murphy, T. (2012). Waco siege. In W. R. Miller (Ed.), The social history of crime and punishment in America: An encyclopedia (Vol. 1, pp. 1979-1900). Thousand Oaks, CA: SAGE Publications Ltd. Retrieved from http://dx.doi.org.proxy.libraries.rutgers.edu/10.4135/9781452218427.n715
 	</li>
 	<li>
-		Perry, B., & Szalavitz, M. (2007, March/April). Stairway to heaven: Treating children in the crosshairs of trauma. Psychotherapy Networker. Retrieved from <a href="https://www.psychotherapynetworker.org/magazine/article/667/stairway-to-heaven" target="_blank">https://www.psychotherapynetworker.org/magazine/article/667/stairway-to-heaven</a>
+		Perry, B., & Szalavitz, M. (2007, March/April). Stairway to heaven: Treating children in the crosshairs of trauma. Psychotherapy Networker. Retrieved from https://www.psychotherapynetworker.org/magazine/article/667/stairway-to-heaven
 	</li>
 	<li>
-		Report to the Deputy Attorney General on the Events at Waco, Texas/Child Abuse. (2013, May 9). In Wikisource. Retrieved from <a href="https://en.wikisource.org/w/index.php?title=Report_to_the_Deputy_Attorney_General_on_the_Events_at_Waco,_Texas/Child_Abuse&oldid=4427301" target="_blank">https://en.wikisource.org/w/index.php?title=Report_to_the_Deputy_Attorney_General_on_the_Events_at_Waco,_Texas/Child_Abuse&oldid=4427301</a>
+		Report to the Deputy Attorney General on the Events at Waco, Texas/Child Abuse. (2013, May 9). In Wikisource. Retrieved from https://en.wikisource.org/w/index.php?title=Report_to_the_Deputy_Attorney_General_on_the_Events_at_Waco,_Texas/Child_Abuse&oldid=4427301
 	</li>
 	<li>
-		Washington Post. (1993, September 5). Koresh’s top aide killed cult leader, FBI official says. The Washington Post. Retrieved from <a href="https://www.washingtonpost.com/archive/politics/1993/09/05/koreshs-top-aide-killed-cult-leader-fbi-official-says/0a8bedd4-460d-4061-96eb-d527d2832c1b/?utm_term=.8c0ae3239130" target="_blank">https://www.washingtonpost.com/archive/politics/1993/09/05/koreshs-top-aide-killed-cult-leader-fbi-official-says/0a8bedd4-460d-4061-96eb-d527d2832c1b/?utm_term=.8c0ae3239130</a>
+		Washington Post. (1993, September 5). Koresh’s top aide killed cult leader, FBI official says. The Washington Post. Retrieved from https://www.washingtonpost.com/archive/politics/1993/09/05/koreshs-top-aide-killed-cult-leader-fbi-official-says/0a8bedd4-460d-4061-96eb-d527d2832c1b/?utm_term=.8c0ae3239130
 	</li>
 	<li>
-		Wikipedia contributors. (2017, December 13). Five pillars. In Wikipedia, The Free Encyclopedia. Retrieved from <a href="https://en.wikipedia.org/wiki/Wikipedia:Five_pillars" target="_blank">https://en.wikipedia.org/wiki/Wikipedia:Five_pillars</a>
+		Wikipedia contributors. (2017, December 13). Five pillars. In Wikipedia, The Free Encyclopedia. Retrieved from https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
 	</li>
 	<li>
-		Wikipedia contributors. (2018, March 23). Waco siege. In Wikipedia, The Free Encyclopedia. Retrieved from <a href="https://en.wikipedia.org/w/index.php?title=Waco_siege&oldid=832099596" target="_blank">https://en.wikipedia.org/w/index.php?title=Waco_siege&oldid=832099596</a>
+		Wikipedia contributors. (2018, March 23). Waco siege. In Wikipedia, The Free Encyclopedia. Retrieved from https://en.wikipedia.org/w/index.php?title=Waco_siege&oldid=832099596
 	</li>
 </ul>
