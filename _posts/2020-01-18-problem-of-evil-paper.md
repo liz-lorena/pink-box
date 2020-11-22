@@ -33,7 +33,7 @@ excerpt: "This was my final paper for my Interdisciplinary Honors Seminar course
 <ul>
   <li>
     Biography.com Editors. "Charles Whitman: Biography." Bio.com. A&E Networks Television,
-  n.d. Web. 23 Dec. 2015. <a href="http://www.biography.com/people/charles-whitman-11495598" target="_blank">http://www.biography.com/people/charles-whitman-11495598</a>. 
+  n.d. Web. 23 Dec. 2015. http://www.biography.com/people/charles-whitman-11495598. 
   </li>
 
   <li>
@@ -41,11 +41,11 @@ excerpt: "This was my final paper for my Interdisciplinary Honors Seminar course
   </li>
   
   <li>
-  CBSNews.com Staff. "Could Columbine Have Been Prevented?" CBSNews. CBS Interactive, 7 Apr. 2001. Web. 23 Dec. 2015. <a href="http://www.cbsnews.com/news/could-columbine-have-been-prevented/" target="_blank">http://www.cbsnews.com/news/could-columbine-have-been-prevented/</a>.
+  CBSNews.com Staff. "Could Columbine Have Been Prevented?" CBSNews. CBS Interactive, 7 Apr. 2001. Web. 23 Dec. 2015. http://www.cbsnews.com/news/could-columbine-have-been-prevented/.
   </li>
 
   <li>
-    Gumbel, Andrew. "The Truth About Columbine." The Guardian. Guardian News and Media Limited, 16 Apr. 2009. Web. 23 Dec. 2015. <a href="http://www.theguardian.com/world/2009/apr/17/columbine-massacre-gun-crime-us" target="_blank">http://www.theguardian.com/world/2009/apr/17/columbine-massacre-gun-crime-us</a>.
+    Gumbel, Andrew. "The Truth About Columbine." The Guardian. Guardian News and Media Limited, 16 Apr. 2009. Web. 23 Dec. 2015. http://www.theguardian.com/world/2009/apr/17/columbine-massacre-gun-crime-us.
   </li>
 
   <li>
@@ -53,16 +53,16 @@ excerpt: "This was my final paper for my Interdisciplinary Honors Seminar course
   </li>
 
   <li>
-    Shelley, Mary Wollstonecraft. Frankenstein; Or, The Modern Promethius. London, UK: Lackington, Hughes, Harding, Mavor, & Jones, 1818. Gutenberg.org. Project Gutenberg, 17 June 2007. Web. 27 Oct. 2015. <a href="http://www.gutenberg.org/files/84/84-h/84-h.htm" target="_blank">http://www.gutenberg.org/files/84/84-h/84-h.htm</a>.
+    Shelley, Mary Wollstonecraft. Frankenstein; Or, The Modern Promethius. London, UK: Lackington, Hughes, Harding, Mavor, & Jones, 1818. Gutenberg.org. Project Gutenberg, 17 June 2007. Web. 27 Oct. 2015. http://www.gutenberg.org/files/84/84-h/84-h.htm.
   </li>
 
   <li>
-    Shepard, Cyn. "Dylan Klebold's Journal." A Columbine Site. Cyn Shepard, 21 Apr. 1999. Web. 23 Dec. 2015. <a href="http://www.acolumbinesite.com/dylan/writing/journal/jindex.html" target="_blank">http://www.acolumbinesite.com/dylan/writing/journal/jindex.html</a>.
+    Shepard, Cyn. "Dylan Klebold's Journal." A Columbine Site. Cyn Shepard, 21 Apr. 1999. Web. 23 Dec. 2015. http://www.acolumbinesite.com/dylan/writing/journal/jindex.html.
   </li>
 
   <li>
     Shepard, Cyn. "Eric Harris's Journals." A Columbine Site. Cyn Shepard, 21 Apr. 1999. Web. 
-  23 Dec. 2015. <a href="http://www.acolumbinesite.com/eric/writing/journal/jindex.html" target="_blank">http://www.acolumbinesite.com/eric/writing/journal/jindex.html</a>. 
+  23 Dec. 2015. http://www.acolumbinesite.com/eric/writing/journal/jindex.html. 
   </li>
 
   <li>
