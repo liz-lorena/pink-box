@@ -8,7 +8,7 @@ comments: true
 excerpt: This was my final report for my DCIM minor capstone project <em>LOG OUT</em>.
 ---
 
-<img src="https://cozymaus.com/img/logout.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/logout.png" alt="" class="img-fluid"/>
 
 <h3>Introduction</h3>
 <h4>Goals</h4>
@@ -19,7 +19,7 @@ excerpt: This was my final report for my DCIM minor capstone project <em>LOG OUT
 <p>The purpose of the website is to serve as a guide for people to learn more about cyber harassment and its victims and perpetrators. Its purpose is also to teach people how to avoid becoming a victim of cyber harassment and how to fight cyber harassment if they have already been targeted. The website also contains references to all the sources found through research, information on immediate help, links to helpful digital tools, and other useful resources.</p>
 
 <h3>Deliverables</h3>
-<p>The deliverable of the project is a link to a website. This website is a bundle of files and folders that is stored and hosted as a static website on the <em>Github Pages</em> service for free. The name of the repository is “logout” because the name of my project is <em>LOG OUT</em>. The link to it is <a href="https://logout.cozymaus.com" target="_blank">https://logout.cozymaus.com</a>.</p>
+<p>The deliverable of the project is a link to a website. This website is a bundle of files and folders that is stored and hosted as a static website on the <em>Github Pages</em> service for free. The name of the repository is “logout” because the name of my project is <em>LOG OUT</em>. The link to it is <a href="https://lizlorena.com/logout" target="_blank">https://lizlorena.com/logout</a>.</p>
 <h3>Design</h3>
 <p>The design of the website is meant to mirror the design of the forum website Kiwi Farms, which is known in mainstream media as “the web’s biggest community of stalkers” (Pless, 2016). The point of this was to playfully mock that website as like a parody. Using their design but being an anti-cyberstalking resource gives the content some artistic merit. The name of my project is also a callout to <em>Kiwi Farms</em>. The name of my project is <em>LOG OUT</em>, which simultaneously tells victims to log out to get away from toxic people and also tells harassers to log out and quit harassing others.</p> 
 
@@ -48,34 +48,34 @@ excerpt: This was my final report for my DCIM minor capstone project <em>LOG OUT
 
 <ul>
 	<li>
-		Amanda Todd suicide: RCMP repeatedly told of blackmailer's attempts. (2013, November 15). <em>CBC News</em>. Retrieved from <a href="https://www.cbc.ca/news/canada/amanda-todd-suicide-rcmp-repeatedly-told-of-blackmailer-s-attempts-1.2427097" target="_blank">https://www.cbc.ca/news/canada/amanda-todd-suicide-rcmp-repeatedly-told-of-blackmailer-s-attempts-1.2427097</a>
+		Amanda Todd suicide: RCMP repeatedly told of blackmailer's attempts. (2013, November 15). <em>CBC News</em>. Retrieved from https://www.cbc.ca/news/canada/amanda-todd-suicide-rcmp-repeatedly-told-of-blackmailer-s-attempts-1.2427097
 	</li>
 	<li>
-		Clark, D. (2015, January 15). How to protect your online reputation. <em>Forbes</em>. Retrieved from <a href="https://www.forbes.com/sites/dorieclark/2015/01/15/how-to-protect-your-online-reputation" target="_blank">https://www.forbes.com/sites/dorieclark/2015/01/15/how-to-protect-your-online-reputation</a>
+		Clark, D. (2015, January 15). How to protect your online reputation. <em>Forbes</em>. Retrieved from https://www.forbes.com/sites/dorieclark/2015/01/15/how-to-protect-your-online-reputation
 	</li>
 	<li>
-		Dascalescu, A. (2018, January 3). Doxxing can ruin your life. Here’s how (you can avoid it). <em>Heimdal Security</em>. Retrieved from <a href="https://heimdalsecurity.com/blog/doxxing/" target="_blank">https://heimdalsecurity.com/blog/doxxing/</a>
+		Dascalescu, A. (2018, January 3). Doxxing can ruin your life. Here’s how (you can avoid it). <em>Heimdal Security</em>. Retrieved from https://heimdalsecurity.com/blog/doxxing/
 	</li> 
 	<li>
-		[FREE LGBTQPIA]. (2016, September 13). Kiwi Farms, the web’s biggest community of stalkers. Retrieved from <a href="http://freelgbtqpia.tumblr.com/post/150351805056/kiwi-farms-the-webs-biggest-community-of" target="_blank">http://freelgbtqpia.tumblr.com/post/150351805056/kiwi-farms-the-webs-biggest-community-of</a>
+		[FREE LGBTQPIA]. (2016, September 13). Kiwi Farms, the web’s biggest community of stalkers. Retrieved from http://freelgbtqpia.tumblr.com/post/150351805056/kiwi-farms-the-webs-biggest-community-of
 	</li>
 	<li>
-		Henderson, C. (2017, December 30). Los Angeles man arrested after 'swatting' call led to innocent man's death in Kansas. <em>AZCentral</em>. Retrieved from <a href="https://www.azcentral.com/story/news/nation/2017/12/30/z-tyler-barriss-los-angeles-man-arrested-connection-swatting-call-led-deadly-police-shooting-kansas/992265001/" target="_blank">https://www.azcentral.com/story/news/nation/2017/12/30/z-tyler-barriss-los-angeles-man-arrested-connection-swatting-call-led-deadly-police-shooting-kansas/992265001/</a>
+		Henderson, C. (2017, December 30). Los Angeles man arrested after 'swatting' call led to innocent man's death in Kansas. <em>AZCentral</em>. Retrieved from https://www.azcentral.com/story/news/nation/2017/12/30/z-tyler-barriss-los-angeles-man-arrested-connection-swatting-call-led-deadly-police-shooting-kansas/992265001/
 	</li>
 	<li>
-		Katzowitz, J. (2018, June 25). Transgender game developer who’d been bullied online dies by suicide. <em>The Daily Dot</em>. Retrieved from <a href="https://www.dailydot.com/irl/chloe-sagal-suicide-cyberbullying-harassment/" target="_blank">https://www.dailydot.com/irl/chloe-sagal-suicide-cyberbullying-harassment/</a>
+		Katzowitz, J. (2018, June 25). Transgender game developer who’d been bullied online dies by suicide. <em>The Daily Dot</em>. Retrieved from https://www.dailydot.com/irl/chloe-sagal-suicide-cyberbullying-harassment/
 	</li>
 	<li>
-		Notopoulos, K. (2016, March 28). How the internet failed Jessi Slaughter. <em>Buzzfeed News</em>. Retrieved from <a href="https://www.buzzfeednews.com/article/katienotopoulos/how-the-internet-failed-jessi-slaughter" target="_blank">https://www.buzzfeednews.com/article/katienotopoulos/how-the-internet-failed-jessi-slaughter</a>
+		Notopoulos, K. (2016, March 28). How the internet failed Jessi Slaughter. <em>Buzzfeed News</em>. Retrieved from https://www.buzzfeednews.com/article/katienotopoulos/how-the-internet-failed-jessi-slaughter
 	</li>
 	<li>
-		Nuccitelli, M. (n.d.). Cyber harassment: Internet defamation and internet trolls. <em>iPredator</em>. Retrieved from <a href="https://www.ipredator.co/cyber-harassment/" target="_blank">https://www.ipredator.co/cyber-harassment/</a>
+		Nuccitelli, M. (n.d.). Cyber harassment: Internet defamation and internet trolls. <em>iPredator</em>. Retrieved from https://www.ipredator.co/cyber-harassment/
 	</li>
 	<li>
-		Pless, M. (2016, July 19). Kiwi Farms, the web’s biggest community of stalkers. <em>New York Magazine</em>. Retrieved from <a href="http://nymag.com/intelligencer/2016/07/kiwi-farms-the-webs-biggest-community-of-stalkers.html" target="_blank">http://nymag.com/intelligencer/2016/07/kiwi-farms-the-webs-biggest-community-of-stalkers.html</a>
+		Pless, M. (2016, July 19). Kiwi Farms, the web’s biggest community of stalkers. <em>New York Magazine</em>. Retrieved from http://nymag.com/intelligencer/2016/07/kiwi-farms-the-webs-biggest-community-of-stalkers.html
 	</li>
 	<li>
-		Steinbaugh, A. (2015, April 3). Kevin Bollaert sentenced to 18 years over revenge porn site "You Got Posted". Retrieved from <a href="http://adamsteinbaugh.com/2015/04/03/kevin-bollaert-sentenced-to-years-over-revenge-porn-site-you-got-posted/" target="_blank">http://adamsteinbaugh.com/2015/04/03/kevin-bollaert-sentenced-to-years-over-revenge-porn-site-you-got-posted/</a>
+		Steinbaugh, A. (2015, April 3). Kevin Bollaert sentenced to 18 years over revenge porn site "You Got Posted". Retrieved from http://adamsteinbaugh.com/2015/04/03/kevin-bollaert-sentenced-to-years-over-revenge-porn-site-you-got-posted/
 	</li>
 </ul>
 
