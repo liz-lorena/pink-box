@@ -1,10 +1,10 @@
 # Site Info
 title:              "The Stories That Move Me"
 description:        "A writing project about the stories in films, books, games, and real life that inspire me."
-image:              https://lizberberena.com/img/me.jpg
+image:              /img/sitewideimg.png
 
 # Author Info
-author_name:        lizberberena
+author_name:        Iris of Lys
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
@@ -20,7 +20,7 @@ paginate: 5
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: lizberberena
+    shortname: irisoflys
 
 # Site Build
 highlighter: rouge
