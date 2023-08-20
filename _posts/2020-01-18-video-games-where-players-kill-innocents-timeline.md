@@ -8,7 +8,7 @@ comments: true
 excerpt: "This timeline is meant to document notable and obscure video games that give the player the ability to kill innocents and analyze why and how the feature is implemented throughout the years. It was made for a project in my Social Impacts of Video Games course."
 ---
 
-<img src="https://irisoflys.com/img/gametimeline.png" class="img-fluid">
+<img src="https://lizlorena.com/img/gametimeline.png" class="img-fluid">
 <p class="caption">Click <a href="https://www.tiki-toki.com/timeline/entry/1203969/Video-Games-Where-Players-Kill-Innocents/" target="_blank">here</a> to be taken to the timeline on Tiki-toki.com.</p>
 
 <p><first-letter>T</first-letter>his timeline is meant to document notable and obscure video games that give the player the ability to kill innocents and analyze why and how the feature is implemented throughout the years.</p>
